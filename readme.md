@@ -12,7 +12,10 @@
 </h1>
 <p style="text-align: center">Semantic Personal Publishing Platform</p>
 
-<h2>Pre-Installation: Install XAAMP and know how to navigate to the directory in which you installed it </h2>
+<h2>Pre-Installation: Install XAAMP  </h2>
+<ol>
+	<li>Make sure you know how to navigate to the directory in which you installed it</li>
+</ol>
 <h2>Installation: Famous 5-minute install</h2>
 <ol>
 	<li>Unzip the package in the directory where you have XAAMP.</li>
