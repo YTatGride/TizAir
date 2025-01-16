@@ -18,7 +18,7 @@
 </ol>
 <h2>Installation: Famous 5-minute install</h2>
 <ol>
-	<li>Unzip the package in the directory where you have XAAMP in the htdocs folder.</li>
+	<li>Unzip the package in the directory where you have XAMPP in the htdocs folder.</li>
 	<li>Open <span class="file"><a href="wp-admin/install.php">wp-admin/install.php</a></span> in your browser. It will take you through the process to set up a <code>wp-config.php</code> file with your database connection details.
 		<ol>
 			<li>If for some reason this does not work, do not worry. It may not work on all web hosts. Open up <code>wp-config-sample.php</code> with a text editor like WordPad or similar and fill in your database connection details.</li>
