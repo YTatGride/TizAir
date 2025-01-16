@@ -12,7 +12,7 @@
 </h1>
 <p style="text-align: center">Semantic Personal Publishing Platform</p>
 
-<h2>Pre-Installation: Install XAAMP  </h2>
+<h2>Pre-Installation: Install XAMPP  </h2>
 <ol>
 	<li>Make sure you know how to navigate to the directory in which you installed it</li>
 </ol>
